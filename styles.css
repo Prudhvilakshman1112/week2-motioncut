@@ -3,7 +3,7 @@ body
     display:flex ;
     align-items:center;
     justify-content:center;
-    margin-top:175px;
+    margin-top: 175px;
 }
 /* Container to ensure the items are centrally aligned */
 .slider {
